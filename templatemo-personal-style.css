@@ -664,7 +664,7 @@ https://templatemo.com/tm-593-personal-shape
             transform: rotate(-2deg);
             transition: transform 0.4s ease;
         }
-        
+
 
         .about-image:hover {
             transform: rotate(0deg) scale(1.02);
@@ -776,7 +776,7 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/working-business-women.jpg');
+            background-image: url('images/distributeurdeproduit.png');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
